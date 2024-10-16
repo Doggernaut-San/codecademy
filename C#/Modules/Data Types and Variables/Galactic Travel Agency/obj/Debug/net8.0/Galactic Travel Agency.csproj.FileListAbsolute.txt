@@ -1,0 +1,15 @@
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\bin\Debug\net8.0\Galactic Travel Agency.exe
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\bin\Debug\net8.0\Galactic Travel Agency.deps.json
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\bin\Debug\net8.0\Galactic Travel Agency.runtimeconfig.json
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\bin\Debug\net8.0\Galactic Travel Agency.dll
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\bin\Debug\net8.0\Galactic Travel Agency.pdb
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.AssemblyInfoInputs.cache
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.AssemblyInfo.cs
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.csproj.CoreCompileInputs.cache
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.sourcelink.json
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.dll
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\refint\Galactic Travel Agency.dll
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.pdb
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\Galactic Travel Agency.genruntimeconfig.cache
+D:\projects\codecademy\C#\Modules\Data Types and Variables\Galactic Travel Agency\obj\Debug\net8.0\ref\Galactic Travel Agency.dll
