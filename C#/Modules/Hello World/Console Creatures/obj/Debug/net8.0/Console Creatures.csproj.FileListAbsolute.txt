@@ -1,0 +1,28 @@
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.exe
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.deps.json
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.runtimeconfig.json
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.dll
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.pdb
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.AssemblyInfoInputs.cache
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.AssemblyInfo.cs
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.csproj.CoreCompileInputs.cache
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.dll
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\refint\Console Creatures.dll
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.pdb
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.genruntimeconfig.cache
+D:\projects\codecademy\C#\Part 1\Projects\Hello World\Console Creatures\obj\Debug\net8.0\ref\Console Creatures.dll
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.exe
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.deps.json
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.runtimeconfig.json
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.dll
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\bin\Debug\net8.0\Console Creatures.pdb
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.AssemblyInfoInputs.cache
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.AssemblyInfo.cs
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.csproj.CoreCompileInputs.cache
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.dll
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\refint\Console Creatures.dll
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.pdb
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\Console Creatures.genruntimeconfig.cache
+D:\projects\codecademy\C#\Modules\Hello World\Console Creatures\obj\Debug\net8.0\ref\Console Creatures.dll
